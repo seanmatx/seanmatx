@@ -5,7 +5,6 @@
 ## Automated Marketing | Developer | Project Manager
 
 <br />
-
 - 🔭 I’m currently looking for a professional role at a technology firm/company focused on automated marketing content, IT project management, or web development. 
 - 🌱 I just completed a [Full Stack Coding Boot Camp at the University of California, Davis](https://bootcamp.ucdavis.edu/coding/) 
 - 🔄 I’m looking to collaborate with other entrepreneurs and content creators.
@@ -17,6 +16,7 @@
 [<img align="left" alt="Sean Mandell | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/sean.mandell/)
 [<img align="left" alt="Sean Mandell | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/dagobahrelic/)
 [<img align="left" alt="Sean Mandell | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/kafkastrial/)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/spotify.svg" />](https://open.spotify.com/user/seangmandell)
 
 <br />
 <br />
@@ -34,7 +34,3 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-<br />
-<br />
