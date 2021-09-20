@@ -5,6 +5,7 @@
 ## Automated Marketing | Developer | Project Manager
 
 <br />
+
 - 🔭 I’m currently looking for a professional role at a technology firm/company focused on automated marketing content, IT project management, or web development. 
 - 🌱 I just completed a [Full Stack Coding Boot Camp at the University of California, Davis](https://bootcamp.ucdavis.edu/coding/) 
 - 🔄 I’m looking to collaborate with other entrepreneurs and content creators.
@@ -26,6 +27,8 @@
 <img align="left" width="32px" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" width="32px" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" width="32px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" width="32px" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/bootstrap/bootstrap.png" />
+<img align="left" width="32px" alt="Handlebars" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/handlebars/handlebars.png" />
 <img align="left" width="32px" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" width="32px" alt="GraphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" width="32px" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -34,3 +37,12 @@
 <img align="left" width="32px" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" width="32px" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" width="32px" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<br />
+
+### Project Management Tools:
+<img align="left" width="32px" alt="Slack" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/slack/slack.png" />
+<img align="left" width="32px" alt="Asana" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/asana/asana.png" />
+<img align="left" width="32px" alt="Trello" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/trello/trello.png" />
+<img align="left" width="32px" alt="Monday" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/monday/monday.png" />
+<br />
