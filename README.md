@@ -11,16 +11,12 @@
 - 🔄 I’m looking to collaborate with other entrepreneurs and content creators.
 - ⚡ Fun facts: I make artisanal mustards, and I love international travel (26 countries) 
 
-<br />
 
 ### connectSean:
-
-[<img align="left" alt="Sean Mandell | LinkedIn" width="22px"]
-![Sean Mandell | LinkedIn][src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sean Mandell | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Sean Mandell | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sean Mandell | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website
+[<img align="left" alt="Sean Mandell | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
@@ -44,6 +40,7 @@
 <br />
 
 [linkedin]: https://linkedin.com/in/seanmandell
+[facebook]: https://www.facebook.com/sean.mandell/
 [instagram]: https://instagram.com/dagobahrelic/
 [twitter]: https://twitter.com/kafkastrial
 
