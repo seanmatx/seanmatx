@@ -6,10 +6,10 @@
 
 <br />
 
-- 🔭 I’m currently looking for a professional role at a technology firm/company focused on automated marketing content, IT project management, or web development. 
-- 🌱 I just completed a [Full Stack Coding Boot Camp at the University of California, Davis](https://bootcamp.ucdavis.edu/coding/) 
-- 🔄 I’m looking to collaborate with other entrepreneurs and content creators.
-- ⚡ Fun facts: I make artisanal mustards, and I love international travel (26 countries) 
+- 🔭  I’m currently looking for a professional role at a technology firm/company focused on automated marketing content, IT project management, or web development. 
+- 🌱  I just completed a [Full Stack Coding Boot Camp at the University of California, Davis](https://bootcamp.ucdavis.edu/coding/) 
+- 🔄  I’m looking to collaborate with other entrepreneurs and content creators.
+- ⚡  Fun facts: I make artisanal mustards, and I love international travel (26 countries) 
 
 
 ### connectSean:
@@ -41,8 +41,8 @@
 <br />
 
 ### Project Management Tools:
-<img align="left" width="32px" alt="Slack" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/slack/slack.png" />
-<img align="left" width="32px" alt="Asana" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/asana/asana.png" />
-<img align="left" width="32px" alt="Trello" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/trello/trello.png" />
-<img align="left" width="32px" alt="Monday" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/monday/monday.png" />
+[<img height="32" width="32" alt="Sean Mandell | Slack" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/slack.svg" />]
+[<img height="32" width="32" alt="Sean Mandell | Asana" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/asana.svg" />]
+[<img height="32" width="32" alt="Sean Mandell | Trello" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/trello.svg" />]
+[<img height="32" width="32" alt="Sean Mandell | Monday" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/monday.svg" />]
 <br />
