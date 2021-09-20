@@ -28,7 +28,6 @@
 <img align="left" width="32px" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" width="32px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" width="32px" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/bootstrap/bootstrap.png" />
-<img align="left" width="32px" alt="Handlebars" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/handlebars/handlebars.png" />
 <img align="left" width="32px" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" width="32px" alt="GraphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" width="32px" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -39,10 +38,10 @@
 <img align="left" width="32px" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
+<br />
 
 ### Project Management Tools:
-[<img height="32" width="32" alt="Sean Mandell | Slack" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/slack.svg" />]
-[<img height="32" width="32" alt="Sean Mandell | Asana" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/asana.svg" />]
-[<img height="32" width="32" alt="Sean Mandell | Trello" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/trello.svg" />]
-[<img height="32" width="32" alt="Sean Mandell | Monday" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/monday.svg" />]
+[<img align="left" height="32" width="32" alt="Sean Mandell | Slack" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/slack.svg" />]
+[<img align="left" height="32" width="32" alt="Sean Mandell | Asana" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/asana.svg" />]
+[<img align="left" height="32" width="32" alt="Sean Mandell | Trello" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/trello.svg" />]
 <br />
