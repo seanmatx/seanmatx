@@ -12,11 +12,11 @@
 
 
 ### connectSean:
-[<img align="left" alt ="Sean Mandell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/seanmandell/)
-[<img align="left" alt="Sean Mandell | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/sean.mandell/)
-[<img align="left" alt="Sean Mandell | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/dagobahrelic/)
-[<img align="left" alt="Sean Mandell | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/kafkastrial/)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/spotify.svg" />](https://open.spotify.com/user/seangmandell)
+[<img height="32" width="32" alt ="Sean Mandell | LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/seanmandell/)
+[<img height="32" width="32" alt="Sean Mandell | Facebook"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/sean.mandell/)
+[<img height="32" width="32" alt="Sean Mandell | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/dagobahrelic/)
+[<img height="32" width="32" alt="Sean Mandell | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/kafkastrial/)
+[<img height="32" width="32" alt="Sean Mandell | Spotify" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/spotify.svg" />](https://open.spotify.com/user/seangmandell)
 
 <br />
 <br />
