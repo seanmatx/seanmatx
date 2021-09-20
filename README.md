@@ -44,4 +44,3 @@
 [<img align="left" height="32" width="32" alt="Sean Mandell | Slack" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/slack.svg" />]
 [<img align="left" height="32" width="32" alt="Sean Mandell | Asana" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/asana.svg" />]
 [<img align="left" height="32" width="32" alt="Sean Mandell | Trello" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/trello.svg" />]
-<br />
