@@ -7,7 +7,7 @@
 <br />
 
 - 🔭  I’m currently looking for a professional role at a technology firm/company focused on automated marketing content, IT project management, or web development. 
-- 🌱  I just completed a [Full Stack Coding Boot Camp at the University of California, Davis](https://bootcamp.ucdavis.edu/coding/) 
+- 🌱  I just completed a [Full-Stack Web Development Certificate from the University of California, Davis](https://bootcamp.ucdavis.edu/coding/) 
 - 🔄  I’m looking to collaborate with other entrepreneurs and content creators.
 - ⚡  Fun facts: I make artisanal mustards, and I love international travel (26 countries) 
 
