@@ -7,6 +7,8 @@
 <br />
 
 [![Sean Mandell LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seanmandell)
+[![Sean Mandell Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kafkastrial)
+
 
 - 🔭  I’m currently looking for a professional role at a technology firm/company focused on automated marketing content, IT project management, or web development. 
 - 🌱  I just completed a [Full-Stack Web Development Certificate from the University of California, Davis](https://bootcamp.ucdavis.edu/coding/) 
