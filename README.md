@@ -2,7 +2,9 @@
 
 ![helloThere](./hellothere.gif)
 
-## Automated Marketing | Developer | Project Manager
+## IT Project Manager | Implementation Project Manager | Program Manager
+### CRM & SaaS Implementation | Driving Digital Transformation
+
 
 <br />
 
@@ -16,7 +18,7 @@
 - ⚡  Fun facts: I make artisanal mustards, and I love international travel (26 countries) 
 
 
-### connectSean:
+### Connect:
 [<img height="32" width="32" alt ="Sean Mandell | LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/seanmandell/)
 [<img height="32" width="32" alt="Sean Mandell | Facebook"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/sean.mandell/)
 [<img height="32" width="32" alt="Sean Mandell | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/dagobahrelic/)
@@ -25,6 +27,13 @@
 
 <br />
 <br />
+
+### CertificaSeans:
+<ul>
+  <li>Agile Project Management, Atlassian</li>
+  <li>HubSpot Sales Hub Software, HubSpot</li>
+  <li>Google Project Manager (in process)</li>
+</ul>
 
 ### Programming Languages and Tools:
 <img align="left" width="32px" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -48,3 +57,4 @@
 [<img align="left" height="32" width="32" alt="Sean Mandell | Slack" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/slack.svg" />]
 [<img align="left" height="32" width="32" alt="Sean Mandell | Asana" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/asana.svg" />]
 [<img align="left" height="32" width="32" alt="Sean Mandell | Trello" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/trello.svg" />]
+<br />
